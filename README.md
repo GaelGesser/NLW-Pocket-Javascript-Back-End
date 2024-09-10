@@ -10,8 +10,8 @@ O objetivo do in.orbit é ajudar os usuários a se manterem organizados e motiva
 
 ## 🛠 Tecnologias Utilizadas
 
--   **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
--   **TypeScript**: Linguagem que adiciona tipagem estática ao JavaScript.
--   **Express**: Framework para construir aplicações web em Node.js.
--   **Docker**: Para containerização e fácil gerenciamento do ambiente de desenvolvimento.
--   **Drizzle**: Para gerenciamento de banco de dados.
+-    **Node.js**: Ambiente de execução para JavaScript no lado do servidor.
+-    **TypeScript**: Linguagem que adiciona tipagem estática ao JavaScript.
+-    **Fastify**: Framework para construir aplicações web de alto desempenho em Node.js.
+-    **Docker**: Para containerização e fácil gerenciamento do ambiente de desenvolvimento.
+-    **Drizzle**: Para gerenciamento de banco de dados.
